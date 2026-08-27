@@ -9,10 +9,10 @@ Most of my career has involved building web applications, data platforms, and, i
 ## Projects
 
 - [**Tectonic**](https://tomporkka.com/projects/tectonic) — A map-driven intelligence tool for making sense of telecom infrastructure, land, power, and connectivity.
-- [**Adatto**](https://tomporkka.com/projects/adatto) — A better way for stylists and salons to find the right professional fit.
-- [**SplendidSets**](https://tomporkka.com/projects/splendidsets) — A simple place for bands to organize songs, build sets, and keep the right notes close during a show.
+- [**Adatto**](https://joinadatto.com) — A better way for stylists and salons to find the right professional fit.
+- [**SplendidSet**](https://splendidset.com/) — A place for bands to organize songs, build sets, and keep the right notes close during rehearsals and shows.
 - [**Northbound**](https://tomporkka.com/projects/northbound) — An investment research workspace that connects portfolios, market data, strategy, and AI analysis.
-- [**Nulango**](https://tomporkka.com/projects/nulango) — A mobile travel companion for the words and local context you need in the moment.
+- [**Nulango**](https://nulango.com) — A travel companion for the words and local context you need in the moment.
 
 ## Timeline
 
