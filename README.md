@@ -18,7 +18,7 @@ Most of my career has involved building web applications, data platforms, and, i
 
 | Years | Milestones |
 | --- | --- |
-| 2026 | **Afterlight Labs** - Started my own dev shop. Currently, building Tectonic for telecom market intelligence, Adatto for connecting Denver salons and stylists, and SplendidSets for bands to perform their best sets. |
+| 2026 | **Afterlight Labs** - Currently, building Tectonic for telecom market intelligence, Adatto for connecting Denver salons and stylists, and SplendidSets for bands to perform their best sets. |
 | 2019–2026 | **Meta** — Built AI systems, data platforms, and full-stack applications for network infrastructure. |
 | 2020 | **Nulango** — Built Nulango with my brother @davidporkka for travelers to learn languages quickly. | 
 | 2017–2019 | **Summit Materials** — Built out their enterprise data platform and forecasting models. |
